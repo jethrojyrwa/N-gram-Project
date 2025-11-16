@@ -174,4 +174,4 @@ This project is for educational purposes as part of the Natural Language Process
 
 ## 👨‍💻 Author
 
-MCA 5th Trimester - Natural Language Processing Project
+Jethro Jarvis Roy Jyrwa
